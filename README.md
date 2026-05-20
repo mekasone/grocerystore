@@ -1,14 +1,14 @@
 # PLU Code Lookup - Web App
 
 
-Scenario:
+**Scenario**:
 1. You walk into a grocery store (US based stores).
 2. You purchase items and head to the checkout.
 3. Cashier may not remember codes for the products purchased.
 4. This application (a single webpage, can be viewed on any mobile phone) allows the Cashier to lookup either based on the a) product name b) product number (reverse search; gives the name of the produce) c) allows voice input to lookup a product.
 
-This application is beneficial for inexperienced cashiers or those who needed to constantly keep track of ever changing product codes. 
-
+_This application is beneficial for inexperienced cashiers or those who needed to constantly keep track of ever changing product codes. 
+_
 
 
 A free, offline-capable Progressive Web App for grocery store PLU code lookup. Works on any smartphone (iOS/Android) with voice recognition and text-to-speech.
